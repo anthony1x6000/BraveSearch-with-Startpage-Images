@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Brave to Startpage Images
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/anthony1x6000/BraveSearch-with-Startpage-Images
 // @version      0.1
 // @description  Use StartPage as an image service for Brave Search.
 // @author       anthony1x6000
