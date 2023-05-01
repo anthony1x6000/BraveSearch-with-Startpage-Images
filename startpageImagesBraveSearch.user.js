@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Brave to StartPage DuckDuckGo Images
 // @namespace    https://github.com/anthony1x6000/BraveSearch-with-Startpage-Images
-// @version      0.1
+// @version      0.2
 // @description  Use StartPage or other services as an image service for Brave Search.
 // @author       anthony1x6000
 // @match        https://search.brave.com/search?q=*
