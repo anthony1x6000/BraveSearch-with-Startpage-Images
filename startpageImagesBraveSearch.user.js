@@ -19,16 +19,14 @@
 
     let popup;
     let imgredir;
-    let SPpreference;
-    let imageService = "duckdg";
+    let imageService = "duckduckgo";
     let tabImages = document.querySelector("#tab-images");
     tabImages.onclick = function() {
         switch (imageService) {
-            case "spage":
-                var SPpreference;
+            case "startpage":
                 imgredir = `https://www.startpage.com/sp/search?&query=${storeValue()}&cat=images`;
                 break;
-            case "duckdg":
+            case "duckduckgo":
                 imgredir = `https://duckduckgo.com/?hps=1&q=${storeValue()}&iax=images&ia=images`;
                 break;
             default:
