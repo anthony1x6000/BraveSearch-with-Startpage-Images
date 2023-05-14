@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  Use StartPage or other services as an image service for Brave Search.
 // @author       anthony1x6000
-// @match        https://search.brave.com/search?q=*
+// @match        https://search.brave.com/search?*
 // @icon         https://brave.com/static-assets/images/brave-favicon.png
 // @grant        none
 // ==/UserScript==
